@@ -1,8 +1,10 @@
 // Infinite loop turing machine
 // Input:
 // ""
+//  ^
 // Output:
-// ""
+// ...xxxxx
+//         ^
 
 start 0
 end 1

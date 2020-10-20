@@ -1,0 +1,9 @@
+// Turing machine for sorting 0s and 1s
+// Input:  01110011
+//         ^
+// Output: 00011111
+//                ^
+
+// Write it yourself, it will definately be a lot of fun!
+
+// Tip: you only need 5 states

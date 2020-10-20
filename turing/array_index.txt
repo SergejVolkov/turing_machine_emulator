@@ -1,0 +1,12 @@
+// Turing machine for array indexation
+// Input:
+// bin#array
+// 011#01100
+// ^
+// Output:
+// 111#01100
+//        ^
+
+// No biba here too!
+
+// Tip: you only need 6 states

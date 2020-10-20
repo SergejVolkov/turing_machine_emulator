@@ -1,0 +1,10 @@
+// Infinite loop turing machine
+// Input:
+// ""
+// Output:
+// ""
+
+start 0
+end 1
+
+(0, ' ') -> (0, 'x', 1)

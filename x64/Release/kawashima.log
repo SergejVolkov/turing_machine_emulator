@@ -1,9 +1,0 @@
-﻿D:\Program Files (x86)\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (kawashima.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  turing.cpp
-d:\foma\c++\turing\turing.cpp(78): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  Generating code
-  2 of 1440 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  kawashima.vcxproj -> D:\Foma\C++\turing\x64\Release\turing.exe

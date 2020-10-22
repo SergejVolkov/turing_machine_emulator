@@ -1,0 +1,9 @@
+﻿  visual_turing.cpp
+d:\foma\c++\visual_turing\turing.h(141): warning C4018: '<': signed/unsigned mismatch
+d:\foma\c++\visual_turing\turing.h(177): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  424 of 2390 functions (17.7%) were compiled, the rest were copied from previous compilation.
+    251 functions were new in current compilation
+    201 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  visual_turing.vcxproj -> D:\Foma\C++\visual_turing\Release\visual_turing.exe

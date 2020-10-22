@@ -1,0 +1,4 @@
+﻿  visual_turing.cpp
+d:\foma\c++\visual_turing\turing.h(141): warning C4018: '<': signed/unsigned mismatch
+d:\foma\c++\visual_turing\turing.h(177): warning C4018: '<': signed/unsigned mismatch
+  visual_turing.vcxproj -> D:\Foma\C++\visual_turing\Debug\visual_turing.exe

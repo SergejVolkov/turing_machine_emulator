@@ -20,5 +20,5 @@ Advanced Turing machine BASH-like IDE for Windows.
 + *Full control of machine execution: stop anywhere if something goes wrong*
 
 Current version is 1.1.0. Have fun!
-[logo]: https://github.com/SergejVolkov/turing_machine_emulator/blob/master/Images/Screenshot_1.png
-![logo](/Screenshot_1.png)
+
+![alt text](https://github.com/SergejVolkov/turing_machine_emulator/blob/master/Images/Screenshot_1.png?raw=true)

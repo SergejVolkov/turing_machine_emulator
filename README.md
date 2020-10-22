@@ -1,7 +1,7 @@
 # turing_machine_emulator
 Advanced Turing machine BASH-like IDE for Windows.
 
-**visual_turing** is created to serve one specific purpose: to provide easy, safe and fast Turing Machine experience.
+**visual_turing** is created to serve one specific purpose: to provide easy, fast and safe Turing Machine experience.
 
 ![alt text](https://raw.githubusercontent.com/SergejVolkov/turing_machine_emulator/main/Images/hello_world.gif)
 

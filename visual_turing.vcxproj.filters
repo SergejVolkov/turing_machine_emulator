@@ -5,32 +5,37 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
     <Filter Include="Resource Files">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Modules">
+      <UniqueIdentifier>{6dc6c5b5-2d05-4b0d-a045-6f8104f9588b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{667f1574-26e9-40ec-b713-1fbd4f23ec5b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="visual_turing.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Modules\turing.cpp">
+      <Filter>Modules</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="manual.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Headers\win_print.h">
+      <Filter>Headers</Filter>
     </ClInclude>
-    <ClInclude Include="time.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Headers\manual.h">
+      <Filter>Headers</Filter>
     </ClInclude>
-    <ClInclude Include="turing.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Headers\turing.h">
+      <Filter>Headers</Filter>
     </ClInclude>
-    <ClInclude Include="win_print.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Headers\time_logger.h">
+      <Filter>Headers</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
